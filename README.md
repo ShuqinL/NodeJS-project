@@ -12,7 +12,7 @@ $ npm install nodejs_cli
 
 ## Usage.
 
-Stap 1: enter the tool name.```
+Stap 1: enter the tool name.<br\>
 Stap 2: enter your email address when you are resquested.
 
 ```
