@@ -12,7 +12,8 @@ $ npm install nodejs_cli
 
 ## Usage.
 
-To use this tool simply input the tool name and then enter your email address when you are resquested.
+Stap 1: enter the tool name.
+Stap 2: enter your email address when you are resquested.
 
 ```
 $ nodejs_cli
